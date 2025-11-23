@@ -31,8 +31,13 @@ const AboutSectionTwo = () => {
                   Bug free code
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Our firm is dedicated to helping small businesses grow, operate smarter, and build the foundation 
+                  for long-term success. We understand the challenges entrepreneurs face because we’ve been there 
+                  ourselves—limited resources, tough competition, and the pressure to get every decision right. 
+                  That’s why we deliver practical, tailored strategies that produce measurable results, not generic advice.
+                  From streamlining operations and improving customer experience to guiding technology adoption and 
+                  financial planning, we partner with you every step of the way. Our mission is simple: empower business 
+                  owners with the tools, clarity, and confidence they need to thrive in today’s fast-moving market.
                 </p>
               </div>
               <div className="mb-9">

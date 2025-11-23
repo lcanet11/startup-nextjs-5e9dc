@@ -14,8 +14,15 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="About Us"
+        description="Our company is dedicated to helping small businesses grow, operate smarter, 
+        and build the foundation for long-term success. We understand the challenges entrepreneurs 
+        face because we’ve been there ourselves—limited resources, tough competition, and the pressure 
+        to get every decision right. That’s why we deliver practical, tailored strategies that produce 
+        measurable results, not generic advice. From streamlining operations and improving customer experience 
+        to guiding technology adoption and financial planning, we partner with you every step of the way. 
+        Our mission is simple: 
+        empower business owners with the tools, clarity, and confidence they need to thrive in today’s fast-moving market."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
