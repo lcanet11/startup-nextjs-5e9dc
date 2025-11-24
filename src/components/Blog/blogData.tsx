@@ -3,12 +3,12 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Dart Consulting's Lite Service",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "The Importance of a Strong Landing Page, Logo, and Social Media Branding for Your Business.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Jonathan Smith",
       image: "/images/blog/author-03.png",
       designation: "Graphic Designer",
     },

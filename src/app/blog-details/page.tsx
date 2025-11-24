@@ -19,8 +19,7 @@ const BlogDetailsPage = () => {
             <div className="w-full px-4 lg:w-8/12">
               <div>
                 <h2 className="mb-8 text-3xl leading-tight font-bold text-black sm:text-4xl sm:leading-tight dark:text-white">
-                  10 amazing sites to download stock photos & digital assets for
-                  free
+                  The Importance of a Strong Landing Page, Logo, and Social Media Branding for Your Business
                 </h2>
                 <div className="border-body-color/10 mb-10 flex flex-wrap items-center justify-between border-b pb-4 dark:border-white/10">
                   <div className="flex flex-wrap items-center">
@@ -36,7 +35,7 @@ const BlogDetailsPage = () => {
                       </div>
                       <div className="w-full">
                         <span className="text-body-color mb-1 text-base font-medium">
-                          By <span>Musharof Chy</span>
+                          By <span>Jonathan Smith</span>
                         </span>
                       </div>
                     </div>
@@ -104,9 +103,7 @@ const BlogDetailsPage = () => {
                 </div>
                 <div>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    In today’s digital-first economy, your online presence is often the first interaction potential customers have with your business. Before they speak with you, meet you, or purchase anything from you, they evaluate your brand visually—through your website, logo, and social media presence. This makes digital branding no longer optional, but a critical driver of trust, credibility, and conversion. Three foundational elements stand out: your landing page design, logo, and social media branding.
                   </p>
                   <div className="mb-10 w-full overflow-hidden rounded-sm">
                     <div className="relative aspect-97/60 w-full sm:aspect-97/44">
@@ -119,17 +116,24 @@ const BlogDetailsPage = () => {
                     </div>
                   </div>
                   <p className="text-body-color mb-8 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis enim lobortis scelerisque fermentum. Neque
-                    sodales ut etiam sit amet. Ligula ullamcorper
-                    <strong className="text-primary dark:text-white">
-                      malesuada
-                    </strong>
-                    proin libero nunc consequat interdum varius. Quam
-                    pellentesque nec nam aliquam sem et tortor consequat.
-                    Pellentesque adipiscing commodo elit at imperdiet.
-                  </p>
+                    <h3 className="font-xl mb-10 leading-tight font-bold text-black sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight dark:text-white">
+                    A Good Landing Page Design Builds Trust and Drives Results
+                  </h3>
+                    
+            Your landing page is your digital storefront. In just a few seconds, visitors decide whether to stay and explore—or leave. A well-designed landing page does more than look attractive; it guides visitors through a clear path that supports your business goals.
+
+            A strong landing page should:
+
+<br>-Communicate your value proposition immediately</br>
+<br>-Provide a clean and intuitive user experience</br>
+<br>-Load fast and function across devices</br>
+<br>-Use visuals, layout, and messaging that keep the visitor focused</br>
+<br>-Inspire action—whether that’s signing up, calling, or making a purchase</br>
+<br></br>
+
+Poor landing pages leave visitors confused, overwhelmed, or suspicious, resulting in lost leads and sales. A well-executed one increases conversion rates, strengthens your brand’s authority, and sets a professional tone from the start.
+
+                  {/* </p>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Semper auctor neque vitae tempus quam pellentesque nec.
                     <span className="text-primary underline dark:text-white">
@@ -138,14 +142,20 @@ const BlogDetailsPage = () => {
                     donec enim diam. Varius sit amet mattis vulputate enim nulla
                     aliquet porttitor. Odio pellentesque diam volutpat commodo
                     sed.
-                  </p>
+                  </p> */}
                   <h3 className="font-xl mb-10 leading-tight font-bold text-black sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight dark:text-white">
-                    Digital marketplace for Ui/Ux designers.
+                    Your Logo: Small in Size, Huge in Impact
                   </h3>
                   <p className="text-body-color mb-10 text-base leading-relaxed font-medium sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    consectetur adipiscing elit in voluptate velit esse cillum
-                    dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                    mattis vulputate cupidatat.
+                    Your logo is the face of your business. It’s often the very first visual element people associate with your brand, and it speaks before you do. A professional, memorable logo communicates several things instantly:
+
+<br>Your brand identity and personality</br>
+<br>Professionalism and legitimacy</br>
+<br>Consistency and reliability</br>
+<br>Differentiation from competitors</br>
+<br></br>
+
+A poorly designed logo, on the other hand, weakens credibility. People instinctively trust businesses that look established and polished—your logo is one of the fastest ways to signal that you take your business seriously.
                   </p>
                   <ul className="text-body-color mb-10 list-inside list-disc">
                     <li className="text-body-color mb-2 text-base font-medium sm:text-lg lg:text-base xl:text-lg">
