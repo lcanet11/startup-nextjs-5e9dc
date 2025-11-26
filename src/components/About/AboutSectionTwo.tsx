@@ -28,7 +28,7 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Overview
+                  Bug free code
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
@@ -37,25 +37,20 @@ const AboutSectionTwo = () => {
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Needs Assessment
+                  Premier support
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Some small businesses require no more than a pen and paper to properly function, while others 
-                  have advanced technical needs. In today's high tech world, some consultants will push technical 
-                  solutions onto their clients that are above and beyond the business's needs or requirements; or 
-                  what the staff can properly manage. This does not benefit the small business - it benefits the technology
-                  provider. Our motto is to provide the right solution for the right business: nothing more, nothing less.   
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt.
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Technology Adoption
+                  Next.js
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Whether it’s implementing cloud solutions, adopting automation, enhancing cybersecurity, or introducing 
-                  data-driven decision-making, consulting ensures technology is not only adopted but aligned with the business’s 
-                  long-term goals. With the right guidance, even the smallest companies can leverage modern technologies to grow, 
-                  scale, and compete more effectively in today’s digital marketplace.
+                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
+                  consectetur adipiscing elit setim.
                 </p>
               </div>
             </div>
