@@ -28,34 +28,34 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+                  Overview
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Our firm is dedicated to helping small businesses grow, operate smarter, and build the foundation 
-                  for long-term success. We understand the challenges entrepreneurs face because we’ve been there 
-                  ourselves—limited resources, tough competition, and the pressure to get every decision right. 
-                  That’s why we deliver practical, tailored strategies that produce measurable results, not generic advice.
-                  From streamlining operations and improving customer experience to guiding technology adoption and 
-                  financial planning, we partner with you every step of the way. Our mission is simple: empower business 
-                  owners with the tools, clarity, and confidence they need to thrive in today’s fast-moving market.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
+                  Needs Assessment
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                  Some small businesses require no more than a pen and paper to properly function, while others 
+                  have advanced technical needs. In today's high tech world, some consultants will push technical 
+                  solutions onto their clients that are above and beyond the business's needs or requirements; or 
+                  what the staff can properly manage. This does not benefit the small business - it benefits the technology
+                  provider. Our motto is to provide the right solution for the right business: nothing more, nothing less.   
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
+                  Technology Adoption
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                  Whether it’s implementing cloud solutions, adopting automation, enhancing cybersecurity, or introducing 
+                  data-driven decision-making, consulting ensures technology is not only adopted but aligned with the business’s 
+                  long-term goals. With the right guidance, even the smallest companies can leverage modern technologies to grow, 
+                  scale, and compete more effectively in today’s digital marketplace.
                 </p>
               </div>
             </div>
