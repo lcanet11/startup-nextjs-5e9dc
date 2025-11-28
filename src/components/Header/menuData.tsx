@@ -74,8 +74,8 @@ const menuData: Menu[] = [
       },
       {
         id: 48,
-        title: "Error Page",
-        path: "/error",
+        title: "Terms of Service",
+        path: "/terms",
         newTab: false,
       },
     ],
