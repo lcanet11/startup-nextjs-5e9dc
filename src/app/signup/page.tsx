@@ -160,7 +160,7 @@ const SignupPage = () => {
                         By creating account means you agree to the
                         <a href="#0" className="text-primary hover:underline">
                           {" "}
-                          Terms and Conditions{" "}
+                          Terms of Service{" "}
                         </a>
                         , and our
                         <a href="#0" className="text-primary hover:underline">

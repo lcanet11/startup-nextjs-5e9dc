@@ -190,12 +190,12 @@ const Footer = () => {
                       Open Support Ticket
                     </Link>
                   </li>
-                  {/* <li>
+                  <li>
                     <Link
-                      href="/"
+                      href="/terms"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      Terms of Use
+                      Terms of Service
                     </Link>
                   </li>
                   <li>
@@ -205,7 +205,7 @@ const Footer = () => {
                     >
                       About
                     </Link>
-                  </li> */}
+                  </li>
                 </ul>
               </div>
             </div>
