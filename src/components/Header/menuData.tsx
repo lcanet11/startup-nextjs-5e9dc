@@ -21,7 +21,7 @@ const menuData: Menu[] = [
   },
   {
     id: 3,
-    title: "Contact",
+    title: "Support",
     path: "/contact",
     newTab: false,
   },
@@ -74,8 +74,8 @@ const menuData: Menu[] = [
       },
       {
         id: 48,
-        title: "Terms of Service",
-        path: "/terms",
+        title: "Error Page",
+        path: "/error",
         newTab: false,
       },
     ],
