@@ -89,7 +89,7 @@ const featuresData: Feature[] = [
     ),
     title: "Parking Notifications",
     paragraph:
-      "Born from a needs assessment for small taxi businesses, our parking notification service helps parking facilities and independent drivers reduce parking costs.",
+      "Born from a needs assessment for small taxi businesses, our parking notification service helps parking facilities and drivers reduce parking costs.",
   },
 ];
 export default featuresData;
