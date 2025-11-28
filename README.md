@@ -5,7 +5,7 @@ Startup is a free, open-source, and premium-quality [**Next.js startup website t
 If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
 
 ### ✨ Key Features
-- Crafted for Startup and SaaS Business
+- Business Registration
 - Next.js and Tailwind CSS
 - All Essential Business Sections and Pages
 - High-quality and Clean Design
