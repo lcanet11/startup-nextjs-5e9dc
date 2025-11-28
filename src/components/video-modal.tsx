@@ -20,7 +20,8 @@ export default function VideoModal({ isOpen, onClose, ...props }: PropsType) {
   let src = "";
 
   if (props.channel === "youtube") {
-    src = `https://www.youtube.com/embed/${props.videoId}`;
+    src = `https://www.youtube.com/watch?v=I0UPGVmS1QI&t=15s`;
+    // src = `https://www.youtube.com/embed/${props.videoId}`;
   } else {
     src = props.src;
   }
