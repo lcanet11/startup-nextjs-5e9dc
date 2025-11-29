@@ -14,8 +14,7 @@ export default function TermsPage() {
       />
 
       <div className="container py-16">
-      <p>We are Dart Consulting Corp ("Company," "we," "us," "our"), a company registered in Delaware, United States at 1201 N. Orange Street, Suite 762, Wilmington, DE 19801.</p>     
-     
+      
       </div>
     </>
   );
