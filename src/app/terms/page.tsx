@@ -10,52 +10,14 @@ export default function TermsPage() {
     <>
       <Breadcrumb
         pageName="Terms of Service"
-        description="Please read these Terms of Service carefully before using our website or services."
+        description="Last updated October 14, 2025."
       />
 
       <div className="container py-16">
-        <style
-      dangerouslySetInnerHTML={{
-        __html: `
-          [data-custom-class='body'], [data-custom-class='body'] * {
-            background: transparent !important;
-          }
-          [data-custom-class='title'], [data-custom-class='title'] * {
-            font-family: Arial !important;
-            font-size: 26px !important;
-            color: #000000 !important;
-          }
-          [data-custom-class='subtitle'], [data-custom-class='subtitle'] * {
-            font-family: Arial !important;
-            color: #595959 !important;
-            font-size: 14px !important;
-          }
-          [data-custom-class='heading_1'], [data-custom-class='heading_1'] * {
-            font-family: Arial !important;
-            font-size: 19px !important;
-            color: #000000 !important;
-          }
-          [data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
-            font-family: Arial !important;
-            font-size: 17px !important;
-            color: #000000 !important;
-          }
-          [data-custom-class='body_text'], [data-custom-class='body_text'] * {
-            color: #595959 !important;
-            font-size: 14px !important;
-            font-family: Arial !important;
-          }
-          [data-custom-class='link'], [data-custom-class='link'] * {
-            color: #3030F1 !important;
-            font-size: 14px !important;
-            font-family: Arial !important;
-            word-break: break-word !important;
-          }
-        `,
-      }}
-    />
-
-
+      <p>We are Dart Consulting Corp ("Company," "we," "us," "our"), a company registered in Delaware, United States at 1201 N. Orange Street, Suite 762, Wilmington, DE 19801.</p>     
+      <p>We operate the website https://dblpark.com/ (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").</p>
+      <p>We provide a parking assistant service to help you communicate with other drivers.</p>
+      <p>You can contact us by phone at 8455390289, email at info@dartcoop.com, or by mail to 1201 N. Orange Street, Suite 762, Wilmington, DE 19801, United States.</p>
 
       
       </div>
