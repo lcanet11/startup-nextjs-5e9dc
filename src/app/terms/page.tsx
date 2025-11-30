@@ -29,7 +29,7 @@ color: #ffffffff !important;
 [data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
           font-family: Arial !important;
 font-size: 17px !important;
-color: #000000 !important;
+color: #fcfcfcff !important;
         }
 [data-custom-class='body_text'], [data-custom-class='body_text'] * {
           color: #595959 !important;
