@@ -150,7 +150,7 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><strong><bdt clas
     <>
       <Breadcrumb
         pageName="Terms of Service"
-        description="Last updated October 14, 2025."
+        description="Review the Terms of Service for our platform."
       />
 
       <div className="container py-16" dangerouslySetInnerHTML={{ __html: termlyPolicy}}/>
