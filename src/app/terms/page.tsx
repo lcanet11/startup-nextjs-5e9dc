@@ -24,7 +24,7 @@ font-size: 14px !important;
 [data-custom-class='heading_1'], [data-custom-class='heading_1'] * {
           font-family: Arial !important;
 font-size: 19px !important;
-color: #000000 !important;
+color: #ffffffff !important;
         }
 [data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
           font-family: Arial !important;
