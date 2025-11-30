@@ -44,20 +44,14 @@ const menuData: Menu[] = [
       },
       {
         id: 43,
-        title: "Blog Grid Page",
-        path: "/blog",
+        title: "Terms of Service",
+        path: "/terms",
         newTab: false,
       },
       {
-        id: 44,
-        title: "Blog Sidebar Page",
-        path: "/blog-sidebar",
-        newTab: false,
-      },
-      {
-        id: 45,
-        title: "Blog Details Page",
-        path: "/blog-details",
+        id: 48,
+        title: "Privacy Policy",
+        path: "/privacy",
         newTab: false,
       },
       {
@@ -73,11 +67,18 @@ const menuData: Menu[] = [
         newTab: false,
       },
       {
-        id: 48,
-        title: "Error Page",
-        path: "/error",
+        id: 44,
+        title: "Blog Sidebar Page",
+        path: "/blog-sidebar",
         newTab: false,
       },
+      {
+        id: 45,
+        title: "Blog Details Page",
+        path: "/blog-details",
+        newTab: false,
+      },
+      
     ],
   },
 ];
