@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function TermsPage() {
   const termlyPolicy = `
-  <style>
+<style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
         }
@@ -143,6 +143,7 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><strong><bdt clas
       }
     </style>
       </div>
+      
   `;
 
 
