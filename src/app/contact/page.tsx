@@ -21,11 +21,6 @@ const ContactPage = () => {
           }
       />
 
-      <p>
-        For information about our parking notification service, please contact the dblpark 
-        department at info@dblpark.com.
-      </p>
-
       <Contact />
     </>
   );
