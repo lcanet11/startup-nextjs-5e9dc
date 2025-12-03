@@ -14,7 +14,9 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Contact Page"
-        description="If you would like to contact us, please reach out to us directly at info@dartcoop.com"
+        description="For information about our business consulting services, free consultations, or legal information about
+        out terms of service and privacy policies, please reach out to us directly at info@dartcoop.com.
+        For information about our parking notification service, contact the dblpark department at info@dblpark.com"
       />
 
       <Contact />
