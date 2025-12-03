@@ -14,7 +14,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Contact Page"
-        description="If you would like to contact us, please reach out to us directly at info@darcoop.com"
+        description="If you would like to contact us, please reach out to us directly at info@dartcoop.com"
       />
 
       <Contact />
