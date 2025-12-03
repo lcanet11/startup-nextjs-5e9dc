@@ -13,12 +13,12 @@ const menuData: Menu[] = [
     path: "/about",
     newTab: false,
   },
-  {
-    id: 33,
-    title: "Blog",
-    path: "/blog",
-    newTab: false,
-  },
+  // {
+  //   id: 33,
+  //   title: "Blog",
+  //   path: "/blog",
+  //   newTab: false,
+  // },
   {
     id: 3,
     title: "Contact",
@@ -66,18 +66,18 @@ const menuData: Menu[] = [
         path: "/signup",
         newTab: false,
       },
-      {
-        id: 44,
-        title: "Blog Sidebar Page",
-        path: "/blog-sidebar",
-        newTab: false,
-      },
-      {
-        id: 45,
-        title: "Blog Details Page",
-        path: "/blog-details",
-        newTab: false,
-      },
+      // {
+      //   id: 44,
+      //   title: "Blog Sidebar Page",
+      //   path: "/blog-sidebar",
+      //   newTab: false,
+      // },
+      // {
+      //   id: 45,
+      //   title: "Blog Details Page",
+      //   path: "/blog-details",
+      //   newTab: false,
+      // },
       
     ],
   },
