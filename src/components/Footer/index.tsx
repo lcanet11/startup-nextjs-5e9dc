@@ -223,7 +223,7 @@ const Footer = () => {
               >
                 @ 2025
               </a>{" "}
-              and{" "}
+              by{" "}
               <a
                 href="https://nextjstemplates.com"
                 target="_blank"
